@@ -1,4 +1,6 @@
 This is the code to play the color game. Color Game is a game I made using html, css, and js. I made it from the "The Web Developer Bootcamp" Udemy Course by Colt Steele.
 
+The goal of the game is to guess the color that matches the RGB in the header. So if the game has RGB(255,0,0) you would want to pick red. You can play on easy or hard mode.
+
 Here is a link to play the game:
 https://rawcdn.githack.com/JonathanJPotter/Color-Game/b776eb45a3e4bf2b25b0430c352073ed18a4ab6b/Color%20Game/colorGame.html
